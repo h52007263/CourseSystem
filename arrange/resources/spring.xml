@@ -1,0 +1,5 @@
+配置数据源
+配置sessionfactory
+配置hibernateTemplate
+开启注解扫描
+开启实体类扫描
